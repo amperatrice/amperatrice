@@ -1,4 +1,5 @@
-- 👋 my name's Adelaide! (she/her)
+#  my name's Adelaide! 🦉✨ (she/her)
+
 - ES 🇪🇸 / EN 🇦🇺 okay! also, currently learning DE 🇩🇪
 - 🤓 I’m interested in electrochemistry, personal knowledge management (PKM) and music, lots of music!
 - 🌱 I’m currently learning Python for one of my last undergrad courses.
