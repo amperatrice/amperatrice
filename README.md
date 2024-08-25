@@ -8,8 +8,8 @@
   - o un programa que te recuerda cuándo apagar la estufa
   - o refranes generados aleatoriamente... you name it!
 - 💌 si lo necesitas, escríbeme un mensaje a:
-  - Mastodon: @amp@fediscience.org
-  - Cohost: @amperatrice
+  - Mastodon: [@amp@fediscience.org](https://fediscience.org/@amp)
+  - Cohost: [@amperatrice](https://cohost.org/amperatrice)
   - Tumblr: [@isoentropica](https://isoentropica.tumblr.com/) 
 - ⚡ Fun fact: Adoro los números y puedo recordarlos muy bien en el día a día... Sin embargo, no soy muy buena programando todavía.
 
