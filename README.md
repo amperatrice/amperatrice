@@ -2,7 +2,7 @@
 
 - ES 🇪🇸 / EN 🇦🇺 okay! noch jetzt DE 🇩🇪 lernend 
 - 🤓 adoro la electroquímica, el personal knowledge management (PKM) y infinita, infinita música!
-- 🌱 estoy aprendiendo **Python** actualmente, para uno de mis últimos cursos del pregrado.
+- 🌱 estoy aprendiendo **Python** y **Rust** actualmente.
 - 💞️ me gustaría colaborar en aplicaciones para mejoras pequeñas en la vida cotidiana...
   - p. ej. calculadoras para tablas de valores que usualmente se interpolan de manera gráfica
   - o un programa que te recuerda cuándo apagar la estufa
